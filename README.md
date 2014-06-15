@@ -4,16 +4,15 @@ Course materials for the Liquibase Workshop.
 
 ##Requirements
 
-* JDK 1.5+
-* [Gradle 1.0_M1+](http://gradle.org/downloads.html)
+* JDK 1.6+
 
 ##Environment Setup
 
 1. Download workshop files
     * Use Git:
-        * git clone https://github.com/tlberglund/liquibase-workshop
+        * git clone https://github.com/stevesaliman/liquibase-workshop
 	* Download the ZIP:
-	    * [https://github.com/tlberglund/liquibase-workshop/zipball/master](https://github.com/tlberglund/liquibase-workshop/zipball/master)
+	    * [https://github.com/stevesaliman/liquibase-workshop/zipball/master](https://github.com/stevesaliman/liquibase-workshop/zipball/master)
 	* Put workshop files in a directory of your choosing.
 	
 1. Install Gradle using the wrapper
