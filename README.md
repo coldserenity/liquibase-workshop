@@ -18,7 +18,7 @@ Course materials for the Liquibase Workshop.
 1. Install Gradle using the wrapper
     * Run the `gradlew` script to download and install the Gradle executable locally
         
-1. Be sure to keep a browser window open to the excellent [Liquibase docs](http://www.liquibase.org/manual/home)
+1. Be sure to keep a browser window open to the excellent [Liquibase docs](http://www.liquibase.org/documentation/index.html)
 
 
 ##Database Setup
