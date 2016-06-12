@@ -33,7 +33,7 @@ Course materials for the Liquibase Workshop.
    
 1. Alternatively, run the `gradle createDatabaseScript` task, which will produce a script called `starth2` (on Mac and Linux) or `starth2.bat` (on Windows). You can then start the database by running this script from the command line, which keeps the database running in the background while you continue to interact with workshop tasks.
    
-1. To log into the H2 Database web interface, visit `http://localhost:8082`. You will see a connect dialog with default values. Enter `jdbc:h2:db/liquibase\_workshop;FILE\_LOCK=NO` for the JDBC URL, but leave the defaults everywhere else. Click the connect button to log in.
+1. To log into the H2 Database web interface, visit `http://localhost:8082`. You will see a connect dialog with default values. Enter `jdbc:h2:db/liquibase_workshop;FILE_LOCK=NO` for the JDBC URL, but leave the defaults everywhere else. Click the connect button to log in.
 
 1. To begin using Liquibase on the embedded database, run the following two commands:
 
