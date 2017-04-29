@@ -37,9 +37,9 @@ Course materials for the Liquibase Workshop.
 
 1. To begin using Liquibase on the embedded database, run the following two commands:
 
-    `gradle generateChangeLog`
+    `gradlew generateChangeLog`
     
-    `gradle changeLogSync`
+    `gradlew changeLogSync`
 
 
 ##Exercises 
